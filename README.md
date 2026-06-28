@@ -1,9 +1,7 @@
 # ACBUQ: Adaptive Conformal Bayesian Uncertainty Quantification
 
 Reproducible code and data for the manuscript *Adaptive Conformal Bayesian Uncertainty
-Quantification for Reliable High Dimensional Intelligent Systems*, submitted to the
-*Annals of Operations Research* special issue on Advances in Reliability and Statistical
-Computing for Intelligent Systems.
+Quantification for Reliable High Dimensional Intelligent Systems*,
 
 ACBUQ equips any black box predictor with prediction intervals that carry a finite sample,
 distribution free coverage guarantee, makes the interval width adapt to local difficulty
